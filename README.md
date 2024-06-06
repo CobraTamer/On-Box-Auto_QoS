@@ -1,6 +1,6 @@
 ## On-Box-Auto-QoS
 
-## On-Box Appliocation : Automated Dynamic QoS Adjustment Based on Traffic Analysis
+## On-Box Application : Automated Dynamic QoS Adjustment Based on Traffic Analysis
 Overview
 Analyze traffic patterns and dynamically adjust QoS policies to optimize network performance.
 Key Features:
