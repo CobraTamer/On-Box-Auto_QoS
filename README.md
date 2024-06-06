@@ -50,13 +50,13 @@ vim AutoQoS.py
 	4.	Make the Script Executable:
 	•	Change the permissions to make the script executable:
 
-chmod +x interface_health_check.py
+chmod +x AutoQoS.py
 
 
 	5.	Run the Script:
 	•	Execute the script using Python, do this in NX-OS mode not bash:
 
-python3 interface_health_check.py
+python3 AutoQoS.py
 
 
 
